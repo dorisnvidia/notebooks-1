@@ -1,4 +1,15 @@
-# Notebooks 0.10.0 (TBD)
+# Notebooks 0.11.0 (TBD)
+
+## New Features
+- PR #252 Added new cuGraph notebooks (Katz, KCore, Symmetrize) and restructured
+
+## Improvements
+
+## Bug Fixes
+
+
+
+# Notebooks 0.10.0 (23 Oct 2019)
 
 ## New Features
 
@@ -10,7 +21,7 @@
 
 - PR #222 Updated imports to match current cudf, cleaned up notebook text.
 
-# Notebooks 0.9.0 (TBD)
+# Notebooks 0.9.0 ()
 
 ## New Features
 
